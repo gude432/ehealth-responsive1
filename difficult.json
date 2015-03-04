@@ -1,0 +1,110 @@
+{
+    "questions": {
+        "_quiz": [
+            {
+                "question": "Mitä tarkoittaa transsukupuolisuus?",
+                "option1": "Transsukupuolinen tuntee olevansa väärän sukupuolen vartalossa.",
+                "option2": "Transsukupuolisuus tarkoittaa, että tykkää samaa sukupuolta edustavasta ihmisestä.",
+                "option3": "Transsukupuolisuus tarkoittaa, ettei ole kiinnostunut seksuaalisuudesta.",
+                "option4": "Transsukupuolisuus tarkoittaa, ettei ole sukupuolielimiä.",
+                "info": "Transsukupuolinen kokee, että on syntynyt väärän sukupuolen edustajaksi, eli esimerkiksi tytöksi määritelty kokee olevansa poika. Transsukupuolinen toivoo olevansa toista sukupuolta. Transvestiitti voi eläytyä sekä mieheksi, että naiseksi riippumatta alkuperäisestä sukupuolesta. Transgender sukupuolinen ei koe olevansa selkeästi kumpaakaan nais- tai miessukupuolta."
+            },
+            {
+                "question": "Mitä tarkoittaa intersukupuolisuus?",
+                "option1": "Intersukupuolisuus tarkoittaa, että ihmisellä on syntyessään sekä naisen että miehen piirteitä.",
+                "option2": "Intersukupuolinen tuntee olevansa väärän sukupuolen vartalossa.",
+                "option3": "Intersukupuolisuus tarkoittaa, että on kiinnostunut saman sukupuolen edustajasta.",
+                "option4": "Intersukupuolinen tarkoittaa, että ihminen on kiinnostunut molemmista sukupuolista.",
+                "info": "Intersukupuolisella ei ole selkeästi naisen tai miehen ominaisuuksia, vaan ihmisellä on syntyessä sekä naisen että miehen piirteitä, kuten esim. ulkoisesti naisen sukuelimet, mutta munasarjojen tilalla vatsaontelossa on kives. Usein sukupuoli tulee selville lapsen kehittyessä ja alkaessa näyttää piirteitä, jotka edustavat joko nais- tai miessukupuolta. Osa intersukupuolisista kokee tilan osaksi omaa identiteettiä ja kokevat koko elämän ajan edustavansa sekä nais- että miessukupuolta. Sukupuoleton ei koe samaistuvansa elämänsä aikana mihinkään sukupuoleen."
+            },
+            {
+                "question": "Mitä tarkoittaa, jos ihminen on transsuuntautunut?",
+                "option1": "Transsuuntautunut on seksuaalisesti kiinnostunut transihmisistä.",
+                "option2": "Transsuuntautunut tarkoittaa samaa kuin transsukupuolinen eli että kokee olevansa väärän sukupuolen kehossa.",
+                "option3": "Transsuuntautunut on kiinnostunut molemmista sukupuolista.",
+                "option4": "Transsuuntautuneella ei ole seksuaalisia kiinnostuksenkohteita.",
+                "info": "Transsuuntautunut on seksuaalisesti kiinnostunut transihmisistä. Tämä ei kuitenkaan estä kiinnostusta muihinkin."
+            },
+            {
+                "question": "Miksi ehkäisypillereitä yleensä syödään?",
+                "option1": "Jotta vältyttäisiin ei-toivotuilta raskauksilta.",
+                "option2": "Jotta vältyttäisiin ei-toivotuilta raskauksilta ja seksitaudeilta.",
+                "option3": "Koska kaikki muutkin syövät.",
+                "option4": "Ne ehkäisevät seksitaudeilta.",
+                "info": "Ehkäisypilleri suojaa vain raskaudelta, ei siis seksitaudeilta. Tämän vuoksi kondomi onkin ensisijainen ehkäisykeino. Kun seurustelusuhteessa ollaan pidempään, voidaan miettiä muuta ehkäisykeinoa. Tällöin voi olla tarpeellista käydä seksitautitesteissä ennen kuin jättää kondomin käytön."
+            },
+            {
+                "question": "Mitä tarkoitetaan masturbaatiolla?",
+                "option1": "Itsetyydytystä.",
+                "option2": "Yhdyntää.",
+                "option3": "Seksitautia.",
+                "option4": "Kondomimerkkiä.",
+                "info": "Masturbaatio eli itsetyydytys on normaali ja turvallinen tapa tutustua omaan muuttuneeseen vartaloon ja tulla sinuiksi kehittyvän seksuaalisuuden kanssa. Itsetyydytys on hyvä tapa tutustua itseensä ja sillä voi oppia, millainen kosketus voisi toisestakin ihmisestä tuntua hyvältä."
+            },
+            {
+                "question": "Mikä on HPV-rokote?",
+                "option1": "Ennen ensimmäistä seksikontaktia tytöille annettava rokote kohdunkaulasyöpää ja kondyloomaa vastaan.",
+                "option2": "Jäykkäkouristusrokote.",
+                "option3": "Pojille annettava rokote klamydiaa vastaan.",
+                "option4": "Rokote HI-virusta vastaan.",
+                "info": "HPV-rokote antaa suojan äkäisimpiä  papilloomavirustyyppejä vastaan. Rokotteita on kahta erilaista, joista molemmat suojaavat kohdunkaulansyövältä ja sen esiasteilta ja toinen suojaa lisäksi sukuelinten kondyloomilta. Jos tartunnan on jo saanut, ei rokote suojaa taudilta. Siksi rokotteen ottaminen ennen ensimmäistä seksikontaktia olisi kannattavaa. Rokote annetaan 11-12-vuotiaille tytöille osana kansallista rokotusohjelmaa, pojat ja vanhemmat ihmiset voivat saada rokotteen reseptillä apteekista."
+            },
+            {
+                "question": "Miten ehkäisyrengasta käytetään?",
+                "option1": "Se asetetaan naisen emättimeen kolmen viikon ajaksi, minkä jälkeen pidetään taukoviikko.",
+                "option2": "Se laitetaan miehen peniksen ympärille yhdynnän ajaksi.",
+                "option3": "Se laitetaan emättimeen yhdynnän ajaksi.",
+                "option4": "Se laitetaan ihon alle  käsivarteen.",
+                "info": "Ehkäisyrengas on joustava, muovinen rengas, josta imeytyy tasaisesti estrogeenia ja keltarauhashormonia elimistöön. Rengas asetetaan emättimeen kolmen viikon ajaksi. Sen jälkeen rengas otetaan pois ja pidetään taukoviikko. Taukoviikolla on kuukautisvuoto. Rengas voidaan poistaa yhdynnän ajaksi, jos se häiritsee, mutta on muistettava asettaa rengas takaisin kahden tunnin sisällä poistamisesta."
+            },
+            {
+                "question": "Miten ehkäisykapselia käytetään?",
+                "option1": "Lääkäri laittaa naiselle kapselin ihon alle käsivarteen.",
+                "option2": "Se otetaan suun kautta ehkäisemään ei-toivotuilta raskauksilta.",
+                "option3": "Se asetetaan emättimeen.",
+                "option4": "Lääkäri laittaa miehelle kapselin ihon alle käsivarteen.",
+                "info": "Ehkäisykapseli on naisen ihon alle asetettava, pienikokoinen ehkäisykeino. Kapseleita tulee yksi tai kaksi. Kapselin käytön aloittamiseen tarvitaan resepti lääkäriltä, joka asettaa kapselin käsivarren sisäpuolelle, hauiksen kohdalle. Kapselin merkistä riippuen sen ehkäisyteho kestää 3-5 vuotta. Kapseli sisältää keltarauhashormonia. Käytön aikana kuukautiset voivat tulla epäsäännöllisesti tai säännöllisestä tai ne voivat jäädä kokonaan pois."
+            },
+            {
+                "question": "Ahdistuneisuushäiriö voi ilmetä...",
+                "option1": "...useasti esiintyvänä huolestuneisuutena, hermostuneisuutena, ärtymyksenä ja pelokkuutena.",
+                "option2": "...araknofobiana eli hämähäkkikammoisuutena.",
+                "option3": "...useasti esiintyvänä positiivisuutena ja rentoutena.",
+                "option4": "...vaikeutena pysyä paikoillaan.",
+                "info": "Ahdistuneisuushäiriössä ahdistumisen tunne voi olla epämääräistä ja hallitsematonta. Olo voi tuntua jatkuvasti hermostunut, huolestunut, ärtynyt, levoton ja pelokas. Ahdistus voi myös olla hetkellinen ja tulla voimakkaana kohtauksena. Muihin oireisiin kuuluvat hikoilu, päänsärky, sydämentykytykset, vatsakivut tai lihasjännitys."
+            },
+            {
+                "question": "Kuinka monta prosenttia nuorista tuntee itsensä väsyneeksi aamuisin?",
+                "option1": "30 – 45%",
+                "option2": "20%",
+                "option3": "10%",
+                "option4": "100%",
+                "info": "Vuonna 2010 tehdyssä tutkimuksessa todettiin, että kouluaamuina itsensä väsyneeksi tunsi 13-vuotiaista tytöistä 31% ja pojista 29% sekä 15-vuotiaista tytöistä 44% ja pojista 36% vähintään neljä kertaa viikossa. Jos tunnet itsesi väsyneeksi, nukutko tarpeeksi pitkiä unia?"
+            },
+            {
+                "question": "Vaikuttaako sukupuoli unirytmiin?",
+                "option1": "Kyllä, tyttöjen unirytmi muuttuu ensiksi.",
+                "option2": "Kyllä, poikien unirytmi muuttuu ensiksi.",
+                "option3": "Ei vaikuta.",
+                "option4": "Kyllä, poikien unirytmi on tasaisempaa kuin tyttöjen.",
+                "info": "Yleisesti nuoruusiällä nukahtamisen ajankohta siirtyy myöhemmäksi. Tytöillä tämä tapahtuu aikaisemmin kuin pojilla."
+            },
+            {
+                "question": "Minkä avulla elimistöni tuottaa D-vitamiinia?",
+                "option1": "Auringon avulla.",
+                "option2": "Ruoansulatuksen avulla.",
+                "option3": "Saan D-vitamiinia juustosta.",
+                "option4": "Saan D-vitamiinia hedelmistä.",
+                "info": "D-vitamiinia muodostuu ihmisen iholla auringonvalon vaikutuksesta. Suomessa suositellaan otettavaksi lisävitamiinia koska auringonvaloa ei ole riittävästi."
+            },
+            {
+                "question": "Mikä seuraavista on hyvä B12-vitamiinin lähde?",
+                "option1": "Liha.",
+                "option2": "Sienet.",
+                "option3": "Marjat.",
+                "option4": "Siemenet.",
+                "info": "B12-vitamiinia saa ainoastaan  eläinkunnantuotteista, joten kasvissyöjän kannattaa huolehtia lisävitamiinin saannista."
+            }
+        ]
+    }
+}
