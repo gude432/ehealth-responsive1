@@ -1,4 +1,5 @@
-﻿$(document).ready(function () {	
+﻿//main functions
+$(document).ready(function () {	
 
 var questionBank=new Array();
 var stage="#game1";
