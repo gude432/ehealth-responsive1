@@ -1,6 +1,5 @@
 ﻿$(document).ready(function () {	
 
-
 var questionBank=new Array();
 var stage="#game1";
 var stage2=new Object;
@@ -12,7 +11,6 @@ var right;
 var level;
 var store=[];
 var current =0;
-
 
 chooseLevel();
 
