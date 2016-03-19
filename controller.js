@@ -1,4 +1,4 @@
-﻿//main functions
+﻿//main functions new feature add
 $(document).ready(function () {	
 
 var questionBank=new Array();
